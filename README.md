@@ -125,7 +125,7 @@ Píxeles → centímetros
 Archivo:
 
 ```text
-seguimiento_robot.py
+Seguimiento Robot ArUco.py
 ```
 
 ### Función
@@ -147,7 +147,7 @@ Este módulo no pudo ser implementado completamente debido a limitaciones de har
 
 A pesar de ello, se desarrolló la lógica principal y se diseñó una pista con marcadores ArUco para futuras implementaciones.
 
-El plano fue incluido dentro del proyecto para que pueda ser utilizado por otros usuarios, modificado o ampliado en futuras versiones.
+El plano fue incluido dentro del proyecto para que pueda ser utilizado por otros usuarios.
 
 Archivo incluido:
 
@@ -167,15 +167,8 @@ pip install pyqt5
 pip install pandas
 pip install openpyxl
 pip install numpy
+
 ```
-
-O utilizando:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Futuras mejoras
 
