@@ -168,19 +168,6 @@ pip install pandas
 pip install openpyxl
 pip install numpy
 
-```
-
-## Futuras mejoras
-
-* Integración completa con robot físico.
-* Navegación automática.
-* Algoritmos de planificación de rutas.
-* Seguimiento avanzado.
-* Mapeo inteligente.
-* Integración con Arduino o Raspberry Pi.
-
----
-
 ## Autor
 
 Leonardo Matias Godoy Riquelme
