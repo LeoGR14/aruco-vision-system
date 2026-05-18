@@ -167,7 +167,7 @@ pip install pyqt5
 pip install pandas
 pip install openpyxl
 pip install numpy
-
+```
 ## Autor
 
 Leonardo Matias Godoy Riquelme
